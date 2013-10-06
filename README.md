@@ -7,3 +7,5 @@ I used Top Coder UML tool to create this BasicClDiag.xmi. So, you'll need the sa
 
 I also have given a .gif file which can be downloaded and viewed. This is a very basic version. Suggestions are always
 welcome so feel free to email me your thoughts.
+
+Guys we're running out of time, so can we please buckle up.
