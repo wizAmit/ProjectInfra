@@ -7,8 +7,8 @@
 
 <body>
 <?php
-$cn=mysql_connect("localhost","root","");
-mysql_select_db("mydb1",$cn);
+$cn=mysql_connect("db4free.net:3306","wizamit","wizard10789");
+mysql_select_db("cse10214",$cn);
 ?>
 </body>
 </html>
